@@ -1,2 +1,2 @@
 # genisyspro.github.io
-GenisysPro  github website (soon)
+  A website for GenisysPro (*Coming soon*)
